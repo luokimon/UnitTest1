@@ -1,0 +1,9 @@
+#Visual C++ 2015 Filter 
+Debug/
+Release/
+ipch/
+.vs/
+*.opendb
+*.db
+*.aps
+*.filters
